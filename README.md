@@ -1,4 +1,4 @@
-# Blog Title :link: https://zotionycc.github.io/ycj.github.io 
+# Blog Title :link: https://zotionycc.github.io/ycj
 ### :page_facing_up: [0](https://zotionycc.github.io/ycj.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 0 
